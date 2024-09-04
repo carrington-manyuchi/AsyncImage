@@ -11,6 +11,7 @@
 		E655FC762C88B6A5004DB187 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E655FC752C88B6A5004DB187 /* ContentView.swift */; };
 		E655FC782C88B6A7004DB187 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E655FC772C88B6A7004DB187 /* Assets.xcassets */; };
 		E655FC7B2C88B6A7004DB187 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E655FC7A2C88B6A7004DB187 /* Preview Assets.xcassets */; };
+		E655FC822C88BA2A004DB187 /* BackgroundMaterialsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E655FC812C88BA2A004DB187 /* BackgroundMaterialsView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		E655FC752C88B6A5004DB187 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		E655FC772C88B6A7004DB187 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E655FC7A2C88B6A7004DB187 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		E655FC812C88BA2A004DB187 /* BackgroundMaterialsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BackgroundMaterialsView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				E655FC732C88B6A5004DB187 /* AsyncImageApp.swift */,
 				E655FC752C88B6A5004DB187 /* ContentView.swift */,
+				E655FC812C88BA2A004DB187 /* BackgroundMaterialsView.swift */,
 				E655FC772C88B6A7004DB187 /* Assets.xcassets */,
 				E655FC792C88B6A7004DB187 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				E655FC762C88B6A5004DB187 /* ContentView.swift in Sources */,
+				E655FC822C88BA2A004DB187 /* BackgroundMaterialsView.swift in Sources */,
 				E655FC742C88B6A5004DB187 /* AsyncImageApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
